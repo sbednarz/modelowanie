@@ -1,1 +1,3 @@
-# modelowanie
+# Modelowanie procesów (bio)technologicznych
+
+
