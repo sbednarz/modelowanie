@@ -2,6 +2,6 @@
 
 
 * [Notatnik 01 - Wykres](01_plot.ipynb)
-* [Notatnik 02 - Model Volterra-Lotki](02_volterr-lotka.ipynb)
+* [Notatnik 02 - Model Lotki-Volterry](02_Model_Lotki-Volterry.ipynb)
 
 
