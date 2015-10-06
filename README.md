@@ -1,20 +1,20 @@
 ### Modelowanie procesów (bio)technologicznych
 
-Modelowanie procesów chemicznych, za pomocą modeli matematycznych przy użyciu narzędzi komputerowych.
+Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).
 
-Zagadnienia chemiczne: 
+(A) Zagadnienia chemiczne: 
 * bilansy masy i ciepła
 * równowaga chemiczna
 * kinetyka chemiczna
 * idealne reaktory chemiczne
 
-Obliczenia numeryczne:
+(B) Obliczenia numeryczne:
 * rozwiązywanie równań jednej zmiennej
 * rozwiązywanie układów równań
-* równania różniczkowe zwyczajne
-* układy równań różniczkowych
-* zagadnienia optymalizacji (liniowej i nieliniowej)
+* całkowanie równań różniczkowych zwyczajnych
+* całkowanie układów równań różniczkowych zwyczajnych
+* zagadnienia regresji i optymalizacji (liniowej i nieliniowej, z ograniczeniami i bez)
 
-Narzędzia komputerowe:
+(C) Narzędzia komputerowe:
 * [Jupyter Notebook (Python+biblioteki)](jupyter.md)
-
+* Solver (MS Excel) - uzupełnienie
