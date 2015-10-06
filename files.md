@@ -1,5 +1,7 @@
-### Modelowanie procesów (bio)technologicznych - pliki
+### Modelowanie procesów (bio)technologicznych: pliki
 
 
-[Notatnik 1 - model Volterra-Lotki](01_volterr-lotka.ipynb)
+* [Notatnik 01 - Wykres](01_plot.ipynb)
+* [Notatnik 02 - Model Volterra-Lotki](02_volterr-lotka.ipynb)
+
 
