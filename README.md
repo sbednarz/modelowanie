@@ -1,6 +1,6 @@
 ### Modelowanie procesów (bio)technologicznych
 
-*[Materiały do zajęć](files.md)*
+**[Pliki - materiały do zajęć](files.md)**
 
 
 Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).
