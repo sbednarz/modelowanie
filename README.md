@@ -1,20 +1,20 @@
 ### Modelowanie procesów (bio)technologicznych
 
-Jupiter Notebook (dawniej iPython notebook) = srodowisko do obliczeń matematycznych, dziala w oparciu o:
-* interpreter Pythona 
-* biblioteki numeryczne (SciPy, NumPy)
-* biblioteke graficzna (matplotlib)
+Modelowanie procesów chemicznych, za pomocą modeli matematycznych przy użyciu narzędzi komputerowych.
 
-Jest obsługiwane przez przeglądarkę internetową.
+Zagadnienia chemiczne: 
+* bilansy masy i ciepła
+* równowaga chemiczna
+* kinetyka chemiczna
+* idealne reaktory chemiczne
 
+Obliczenia numeryczne:
+* rozwiązywanie równań jednej zmiennej
+* rozwiązywanie układów równań
+* równania różniczkowe zwyczajne
+* układy równań różniczkowych
+* zagadnienia optymalizacji (liniowej i nieliniowej)
 
-Dokument = komórki (wiersze)
+Narzędzia komputerowe:
+* [Jupyter Notebook (Python+biblioteki)](jupyter.md)
 
-Dokument (notebook) = tekst (z wyrażeniami matematycznymi a la LaTeX) + kod wykonywalny (skrypt) + grafika (wykresy 2D 3D animacje itd)
-
-Podstawowe zagadnienia matematyczne potrzebne do zajeć: 
-* rozwiązywanie równań i układów równań (liniowych, nieliniowych, różniczkowych), 
-* procedury optymalizacji (min/max, programowanie liniowe, bez więzów i z)
-* wysokiej jakości wykresy
-
-projekt za free, Open Source, używany przez Microsoft, Google, IBM ...
