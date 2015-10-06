@@ -1,8 +1,8 @@
 #### Jupyter Notebook
 
 
-[Jupiter Notebooki]() (dawniej iPython notebook) = środowisko do obliczeń matematycznych, działa w oparciu o:
-* interpreter Pythona ([iPython](https://en.wikipedia.org/wiki/IPython)) 
+[Jupiter Notebook](https://jupyter.org/) (dawniej iPython notebook) = środowisko do obliczeń matematycznych, działa w oparciu o:
+* interpreter Pythona ([w odmianie iPython](https://en.wikipedia.org/wiki/IPython)) 
 * biblioteki numeryczne ([SciPy](http://docs.scipy.org/doc/scipy/reference/), [NumPy](https://en.wikipedia.org/wiki/NumPy))
 * bibliotekę graficzną ([matplotlib](http://matplotlib.org/contents.html)).
 
