@@ -18,3 +18,6 @@ Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznyc
 (C) Narzędzia komputerowe:
 * [Jupyter Notebook (Python+biblioteki)](jupyter.md)
 * Solver (MS Excel) - uzupełnienie
+
+#### [Materiały do zajęć](files.md)
+
