@@ -1,8 +1,5 @@
 ### Modelowanie procesów (bio)technologicznych
 
-**[Pliki](files.md)**
-
-
 Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).
 
 (A) Zagadnienia chemiczne: 
@@ -19,7 +16,7 @@ Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznyc
 * zagadnienia regresji i optymalizacji (liniowej i nieliniowej, z ograniczeniami i bez)
 
 (C) Narzędzia komputerowe:
-* [Jupyter Notebook (Python+biblioteki)](jupyter.md)
+* [Jupyter Notebook (Python+biblioteki)](class01/jupyter.md)
 * Solver (MS Excel) - uzupełnienie
 
 
