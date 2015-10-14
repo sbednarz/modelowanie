@@ -20,7 +20,7 @@ Komórki mają różny typ:
 
 
 Dostęp do Jupyter Notebook:
-* na własnym komputerze [instalacja](https://www.continuum.io/downloads)
+* na własnym komputerze [*instalacja Jupytera (w pakiecie Anaconda)*](https://www.continuum.io/downloads)
 * poprzez darmowe konto w serwisie [Wakari](https://www.wakari.io/)
 
 
