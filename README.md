@@ -1,12 +1,12 @@
 ## Modelowanie procesów (bio)technologicznych
 
 __Pliki:__
-[Zajecia1](https://github.com/sbednarz/modelowanie/raw/master/class01/class01.ipynb) |
-[Zajecia2](https://github.com/sbednarz/modelowanie/raw/master/class02/class02.ipynb) | 
-[Zajecia3](https://github.com/sbednarz/modelowanie/raw/master/class03/class03.ipynb)
+[Zajęcia1](https://github.com/sbednarz/modelowanie/raw/master/class01/class01.ipynb) |
+[Zajęcia2](https://github.com/sbednarz/modelowanie/raw/master/class02/class02.ipynb) | 
+[Zajęcia3](https://github.com/sbednarz/modelowanie/raw/master/class03/class03.ipynb)
 
 
-__Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).__
+Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).
 
 (A) Zagadnienia chemiczne: 
 * bilansy masy i ciepła
