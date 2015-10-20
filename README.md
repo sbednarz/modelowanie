@@ -1,4 +1,13 @@
-### Modelowanie procesów (bio)technologicznych
+## Modelowanie procesów (bio)technologicznych
+
+##### Pliki
+
+[Zajecia1](https://github.com/sbednarz/modelowanie/raw/master/class01/class01.ipynb)
+[Zajecia2](https://github.com/sbednarz/modelowanie/raw/master/class02/class02.ipynb)
+[Zajecia3](https://github.com/sbednarz/modelowanie/raw/master/class03/class03.ipynb)
+
+
+##### Syllabus
 
 Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).
 
