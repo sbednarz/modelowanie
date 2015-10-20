@@ -6,7 +6,7 @@ __Pliki:__
 [Zajęcia3](https://github.com/sbednarz/modelowanie/raw/master/class03/class03.ipynb)
 
 
-Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).
+__Syllabus:__ Modelowanie procesów/układów chemicznych (A), za pomocą modeli matematycznych (B) przy użyciu narzędzi komputerowych (C).
 
 (A) Zagadnienia chemiczne: 
 * bilansy masy i ciepła
