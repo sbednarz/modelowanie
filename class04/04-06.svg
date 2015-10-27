@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="160.65631mm"
-   height="64.849213mm"
-   viewBox="0 0 569.25457 229.78068"
+   width="100.75784mm"
+   height="57.172169mm"
+   viewBox="0 0 357.01593 202.57856"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -282,8 +282,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="496.30434"
-     inkscape:cy="165.53938"
+     inkscape:cx="57.791554"
+     inkscape:cy="138.33725"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -307,7 +307,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-global="false">
     <sodipodi:guide
-       position="484.87006,156.24649"
+       position="272.63145,129.04436"
        orientation="1,0"
        id="guide3368" />
   </sodipodi:namedview>
@@ -327,7 +327,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3.0517578e-5,152.93945)">
+     transform="translate(-212.23868,152.93945)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -508,16 +508,6 @@
          x="541.0105"
          y="48.963329"
          style="font-size:15px;baseline-shift:baseline;fill:#000000;stroke:none"> Polimer</tspan></text>
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       id="rect3336-7-6"
-       width="76.955406"
-       height="75.841232"
-       x="-77.455406"
-       y="-76.341232"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="scale(-1,-1)" />
     <g
        id="g7317"
        transform="translate(-8.142135,-2.686293)">
