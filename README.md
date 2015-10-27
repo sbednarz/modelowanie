@@ -1,6 +1,6 @@
 ## Modelowanie procesów (bio)technologicznych
 
-__Pliki:__
+__Pliki do zajęć:__
 [Zajęcia1](https://github.com/sbednarz/modelowanie/raw/master/class01/class01.ipynb) |
 [Zajęcia2](https://github.com/sbednarz/modelowanie/raw/master/class02/class02.ipynb) | 
 [Zajęcia3](https://github.com/sbednarz/modelowanie/raw/master/class03/class03.ipynb) |
