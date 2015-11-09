@@ -282,13 +282,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="234.67216"
+     inkscape:cx="234.92216"
      inkscape:cy="130.83142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="952"
+     inkscape:window-height="728"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -338,7 +338,7 @@
          y="-34.180458"
          style="font-size:17.5px;baseline-shift:baseline;fill:#000000;stroke:none">F<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan6932">M</tspan> = 100 kmol/h</tspan></text>
+   id="tspan6932">M</tspan> = 100 kg/h</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m 215.36403,-56.852935 129.90307,0"
@@ -423,12 +423,6 @@
            id="tspan3340-7-1-22"
            sodipodi:role="line">S</tspan></text>
     </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Arrow2Lend-5)"
-       d="m 542.92203,-39.234021 0,71.90307"
-       id="path4144-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -445,22 +439,32 @@
          style="font-size:17.5px;baseline-shift:baseline;fill:#000000;stroke:none">F<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan6932-5"> R</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="556.41473"
-       y="4.2133255"
-       id="text3338-3-1"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan3340-9-6"
-         x="556.41473"
+    <g
+       id="g3410"
+       transform="translate(10.5,-0.50000001)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4144-2"
+         d="m 542.92203,-39.234021 0,71.90307"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Arrow2Lend-5)" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:linespacing="125%"
+         id="text3338-3-1"
          y="4.2133255"
-         style="font-size:17.5px;baseline-shift:baseline;fill:#000000;stroke:none">F<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan6932-5-9"> P</tspan></tspan></text>
+         x="556.41473"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:17.5px;baseline-shift:baseline;fill:#000000;stroke:none"
+           y="4.2133255"
+           x="556.41473"
+           id="tspan3340-9-6"
+           sodipodi:role="line">F<tspan
+   id="tspan6932-5-9"
+   style="font-size:64.99999762%;baseline-shift:sub"> P</tspan></tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -502,12 +506,12 @@
          id="tspan3340-9-9-1"
          x="541.0105"
          y="48.963329"
-         style="font-size:15px;baseline-shift:baseline;fill:#000000;stroke:none"> Polimer 95% mol</tspan><tspan
+         style="font-size:15px;baseline-shift:baseline;fill:#000000;stroke:none"> Polimer 95%</tspan><tspan
          sodipodi:role="line"
          x="541.0105"
          y="67.713333"
          style="font-size:15px;baseline-shift:baseline;fill:#000000;stroke:none"
-         id="tspan8389">Monomer 5% mol</tspan></text>
+         id="tspan8389">Monomer 5%</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#99cc33;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="rect3336-9"

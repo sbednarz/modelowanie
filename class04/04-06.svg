@@ -282,13 +282,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="57.791554"
+     inkscape:cx="58.145107"
      inkscape:cy="138.33725"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="952"
+     inkscape:window-height="728"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -319,7 +319,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -343,7 +343,7 @@
          y="-34.180458"
          style="font-size:17.5px;baseline-shift:baseline;fill:#000000;stroke:none">F<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan6932">M</tspan> = 100 kmol/h</tspan></text>
+   id="tspan6932">M</tspan> = 100 kg/h</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m 215.36403,-56.852935 129.90307,0"
