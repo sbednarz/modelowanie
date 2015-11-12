@@ -22,7 +22,7 @@ __Syllabus:__ Modelowanie procesów/układów chemicznych (A), za pomocą modeli
 * zagadnienia regresji i optymalizacji (liniowej i nieliniowej, z ograniczeniami i bez)
 
 (C) Narzędzia komputerowe:
-* [Jupyter Notebook (Python+biblioteki)](class01/jupyter.md)
+* [Jupyter Notebook (Python+biblioteki)](jupyter.md)
 * Solver (MS Excel) - uzupełnienie
 
 
