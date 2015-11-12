@@ -22,6 +22,7 @@ Komórki mają różny typ:
 Dostęp do Jupyter Notebook:
 * na własnym komputerze [*instalacja Jupytera (w pakiecie Anaconda)*](https://www.continuum.io/downloads)
 * poprzez darmowe konto w serwisie [Wakari](https://www.wakari.io/)
+* poprzez stronę [Try Jupyter](https://try.jupyter.org/)
 
 
 Przykładowe notatniki (notebooki):
