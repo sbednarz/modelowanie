@@ -1,4 +1,4 @@
-# komentarz np. opis zawartosci pliku
+# komentarz np. opis zawartości pliku
 # S0 vo
 #
 4e-3	27
