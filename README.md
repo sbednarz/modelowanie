@@ -18,5 +18,5 @@ __Syllabus:__ Modelowanie procesów/układów chemicznych (A), za pomocą modeli
 (C) Narzędzia komputerowe:
 * [Jupyter Notebook (Python+biblioteki)](jupyter.md)
 * Solver (MS Excel) - uzupełnienie
-
+* [Symulacje polimeryzacji](http://www.cbmm.lodz.pl/files/Sosnowski/Initiator_0_2_Program_and_Documentation.zip)
 
