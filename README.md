@@ -20,3 +20,5 @@ __Syllabus:__ Modelowanie procesów/układów chemicznych (A), za pomocą modeli
 * Solver (MS Excel) - uzupełnienie
 * [Symulacje polimeryzacji](http://www.cbmm.lodz.pl/files/Sosnowski/Initiator_0_2_Program_and_Documentation.zip)
 
+
+Zamieszczone na niniejszej stronie pliki, są wersją testową materiałów do interaktywnego kursu "Computer modelling in chemical technology", opracowywanego w ramach projektu [Erasmus+ InnoChem 2014-1-PL01-KA203-003415](http://www.innochem.pk.edu.pl/)
